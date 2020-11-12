@@ -37,6 +37,7 @@
             @endif
         </div>
 
-        <div class="container w-40 h-40 bg-gray-400"></div>
+        
+        
     </body>
 </html>
